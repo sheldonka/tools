@@ -1,2 +1,2 @@
 # tools
-Familiarization with some tools such as CMake,  &lt;gtest>, different GitHub tools etcetera
+Familiarization with some GitHub tools
